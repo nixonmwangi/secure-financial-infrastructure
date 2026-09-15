@@ -4,6 +4,9 @@ A practical engineering portfolio focused on financial systems, payment infrastr
 
 This repository documents a structured progression from financial foundations → financial systems → payment infrastructure → financial security → distributed finance → cryptographic finance.
 
+
+```
+
 | **The structure**
 |
 |__ environments/                       # Python, Rust, PostgreSQL & development setup
