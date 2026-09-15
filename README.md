@@ -83,7 +83,6 @@ This repository documents a structured progression from financial foundations â†
 
 ## Project Progression
 
-```text
 Financial Foundations
         â†“
 Financial Systems
